@@ -14,6 +14,8 @@
     <script type="text/javascript" src="http://www.openlayers.org/api/OpenLayers.js"></script>
     <script type="text/javascript" src="http://www.openstreetmap.org/openlayers/OpenStreetMap.js"></script>
     <script type="text/javascript" src="tom.js"></script>
+    <script type="text/javascript" src="jquery-3.3.1.min.js"></script>
+    <script type="text/javascript" src="jquery.csv.min.js"></script>
 
     <script type="text/javascript">
         //<![CDATA[
@@ -60,12 +62,16 @@
             layer_markers = new OpenLayers.Layer.Markers("Address", { projection: new OpenLayers.Projection("EPSG:4326"),
                 visibility: true, displayInLayerSwitcher: false });
             layer_osm = new OpenLayers.Layer.Vector("Polygon", {
+                styleMap: new OpenLayers.StyleMap({
+                    'strokeColor': '#ff0000',
+                    'fillColor': '#00ff00'
+                }),
                 strategies: [new OpenLayers.Strategy.Fixed()],
                 protocol: new OpenLayers.Protocol.HTTP({
-                    url: "kn.osm",   //<-- relative or absolute URL to your .osm file
+                    url: "kn-altstadt.osm",   //<-- relative or absolute URL to your .osm file
                     format: new OpenLayers.Format.OSM()
                 }),
-                projection: new OpenLayers.Projection("EPSG:4326")
+                projection: new OpenLayers.Projection("EPSG:4326"),
             });
 
             var report = function(e) {
@@ -100,8 +106,7 @@
             map.addControl(selectCtrl);
             map.addLayers([layer_mapnik, layer_markers, layer_osm]);
             jumpTo(lon, lat, zoom);
-            highlightCtrl.activate();
-            selectCtrl.activate();
+
             // Position des Markers
             //addMarker(layer_markers, 6.641389, 49.756667, popuptext);
 

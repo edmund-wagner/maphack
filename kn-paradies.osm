@@ -1,11 +1,235 @@
---2018-06-15 19:10:09--  https://www.openstreetmap.org/api/0.6/relation/1631787/full
-Auflösen des Hostnamens www.openstreetmap.org (www.openstreetmap.org)… 193.63.75.100, 193.63.75.99, 193.63.75.103
-Verbindungsaufbau zu www.openstreetmap.org (www.openstreetmap.org)|193.63.75.100|:443 … verbunden.
-HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
-Länge: nicht spezifiziert [text/xml]
-Wird in »full« gespeichert.
-
-     0K .......... .........                                    556K=0,03s
-
-2018-06-15 19:10:09 (556 KB/s) - »full« gespeichert [19822]
-
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.6.0 (18004 thorn-02.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="26040771" visible="true" version="15" changeset="11219349" timestamp="2012-04-07T22:19:41Z" user="EinKonstanzer" uid="128720" lat="47.6693634" lon="9.1664558"/>
+ <node id="309121328" visible="true" version="13" changeset="11397885" timestamp="2012-04-23T17:55:00Z" user="EinKonstanzer" uid="128720" lat="47.6688847" lon="9.1698723"/>
+ <node id="309121329" visible="true" version="13" changeset="11397885" timestamp="2012-04-23T17:55:00Z" user="EinKonstanzer" uid="128720" lat="47.6689736" lon="9.1697309"/>
+ <node id="309121330" visible="true" version="12" changeset="11397885" timestamp="2012-04-23T17:55:01Z" user="EinKonstanzer" uid="128720" lat="47.6689637" lon="9.1696373"/>
+ <node id="309121331" visible="true" version="13" changeset="11219349" timestamp="2012-04-07T22:19:43Z" user="EinKonstanzer" uid="128720" lat="47.6689067" lon="9.1695622"/>
+ <node id="323277781" visible="true" version="7" changeset="16037674" timestamp="2013-05-08T20:29:19Z" user="seichter" uid="66497" lat="47.6657631" lon="9.1578392"/>
+ <node id="323282654" visible="true" version="10" changeset="11397885" timestamp="2012-04-23T17:55:02Z" user="EinKonstanzer" uid="128720" lat="47.6687274" lon="9.1595263"/>
+ <node id="323355104" visible="true" version="7" changeset="16037674" timestamp="2013-05-08T20:29:19Z" user="seichter" uid="66497" lat="47.6622516" lon="9.1606595"/>
+ <node id="323499930" visible="true" version="7" changeset="16037674" timestamp="2013-05-08T20:29:19Z" user="seichter" uid="66497" lat="47.6632302" lon="9.1599480"/>
+ <node id="323648322" visible="true" version="7" changeset="4553101" timestamp="2010-04-28T19:58:43Z" user="EinKonstanzer" uid="128720" lat="47.6616870" lon="9.1615830"/>
+ <node id="323662576" visible="true" version="7" changeset="16037674" timestamp="2013-05-08T20:29:19Z" user="seichter" uid="66497" lat="47.6639896" lon="9.1596430"/>
+ <node id="323701297" visible="true" version="7" changeset="16037674" timestamp="2013-05-08T20:29:19Z" user="seichter" uid="66497" lat="47.6595041" lon="9.1646344"/>
+ <node id="323727568" visible="true" version="7" changeset="16037674" timestamp="2013-05-08T20:29:19Z" user="seichter" uid="66497" lat="47.6628432" lon="9.1600093"/>
+ <node id="323872029" visible="true" version="7" changeset="16037674" timestamp="2013-05-08T20:29:19Z" user="seichter" uid="66497" lat="47.6631409" lon="9.1599111"/>
+ <node id="323872038" visible="true" version="7" changeset="16037674" timestamp="2013-05-08T20:29:19Z" user="seichter" uid="66497" lat="47.6636197" lon="9.1599368"/>
+ <node id="323884291" visible="true" version="7" changeset="16037674" timestamp="2013-05-08T20:29:19Z" user="seichter" uid="66497" lat="47.6634809" lon="9.1600497"/>
+ <node id="324093461" visible="true" version="9" changeset="46428544" timestamp="2017-02-26T23:36:13Z" user="Seetroll" uid="135562" lat="47.6593552" lon="9.1648349"/>
+ <node id="324123999" visible="true" version="9" changeset="16037953" timestamp="2013-05-08T20:44:05Z" user="seichter" uid="66497" lat="47.6661153" lon="9.1572969"/>
+ <node id="324154394" visible="true" version="7" changeset="16037674" timestamp="2013-05-08T20:29:20Z" user="seichter" uid="66497" lat="47.6644708" lon="9.1592093"/>
+ <node id="324585881" visible="true" version="11" changeset="44134749" timestamp="2016-12-03T11:18:21Z" user="Seetroll" uid="135562" lat="47.6630633" lon="9.1599396">
+  <tag k="barrier" v="border_control"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="foot" v="yes"/>
+  <tag k="name" v="Zoll Tägerwilen"/>
+ </node>
+ <node id="339176321" visible="true" version="10" changeset="11219349" timestamp="2012-04-07T22:19:44Z" user="EinKonstanzer" uid="128720" lat="47.6693066" lon="9.1624780"/>
+ <node id="339176324" visible="true" version="8" changeset="11219349" timestamp="2012-04-07T22:19:44Z" user="EinKonstanzer" uid="128720" lat="47.6690789" lon="9.1608247"/>
+ <node id="339176329" visible="true" version="9" changeset="11397885" timestamp="2012-04-23T17:55:03Z" user="EinKonstanzer" uid="128720" lat="47.6684985" lon="9.1594029"/>
+ <node id="339176331" visible="true" version="8" changeset="11397885" timestamp="2012-04-23T17:55:03Z" user="EinKonstanzer" uid="128720" lat="47.6675734" lon="9.1590736"/>
+ <node id="339176336" visible="true" version="8" changeset="11397885" timestamp="2012-04-23T17:55:04Z" user="EinKonstanzer" uid="128720" lat="47.6667396" lon="9.1584286"/>
+ <node id="339176340" visible="true" version="9" changeset="16037953" timestamp="2013-05-08T20:44:05Z" user="seichter" uid="66497" lat="47.6661962" lon="9.1574206"/>
+ <node id="339176344" visible="true" version="9" changeset="11397885" timestamp="2012-04-23T17:55:04Z" user="EinKonstanzer" uid="128720" lat="47.6660814" lon="9.1572247"/>
+ <node id="339176350" visible="true" version="11" changeset="11397885" timestamp="2012-04-23T17:55:04Z" user="EinKonstanzer" uid="128720" lat="47.6661028" lon="9.1568490"/>
+ <node id="339176353" visible="true" version="9" changeset="11397885" timestamp="2012-04-23T17:55:04Z" user="EinKonstanzer" uid="128720" lat="47.6661205" lon="9.1569950"/>
+ <node id="343769662" visible="true" version="23" changeset="11397885" timestamp="2012-04-23T17:55:05Z" user="EinKonstanzer" uid="128720" lat="47.6694235" lon="9.1651999"/>
+ <node id="371990297" visible="true" version="23" changeset="11397885" timestamp="2012-04-23T17:55:06Z" user="EinKonstanzer" uid="128720" lat="47.6693688" lon="9.1631938"/>
+ <node id="371990507" visible="true" version="17" changeset="9490161" timestamp="2011-10-06T23:45:54Z" user="Seetroll" uid="135562" lat="47.6694093" lon="9.1635792"/>
+ <node id="1372919738" visible="true" version="2" changeset="16037674" timestamp="2013-05-08T20:29:18Z" user="seichter" uid="66497" lat="47.6603084" lon="9.1635154"/>
+ <node id="1372920033" visible="true" version="2" changeset="16037674" timestamp="2013-05-08T20:29:18Z" user="seichter" uid="66497" lat="47.6659088" lon="9.1572929"/>
+ <node id="1636973781" visible="true" version="9" changeset="36757089" timestamp="2016-01-23T12:35:12Z" user="Seetroll" uid="135562" lat="47.6654744" lon="9.1665136">
+  <tag k="is_in" v="Konstanz,Konstanz,Freiburg,Baden-Württemberg,Bundesrepublik Deutschland,Europe"/>
+  <tag k="name" v="Paradies"/>
+  <tag k="place" v="suburb"/>
+  <tag k="population" v="5808"/>
+  <tag k="postal_code" v="78462"/>
+  <tag k="wikidata" v="Q2051355"/>
+  <tag k="wikipedia" v="de:Paradies (Konstanz)"/>
+ </node>
+ <node id="1706407382" visible="true" version="2" changeset="11397885" timestamp="2012-04-23T17:54:46Z" user="EinKonstanzer" uid="128720" lat="47.6686474" lon="9.1594499"/>
+ <node id="1706407386" visible="true" version="1" changeset="11219349" timestamp="2012-04-07T22:19:00Z" user="EinKonstanzer" uid="128720" lat="47.6688015" lon="9.1596495"/>
+ <node id="1706407388" visible="true" version="2" changeset="11397885" timestamp="2012-04-23T17:54:46Z" user="EinKonstanzer" uid="128720" lat="47.6688341" lon="9.1698636"/>
+ <node id="1706407389" visible="true" version="1" changeset="11219349" timestamp="2012-04-07T22:19:01Z" user="EinKonstanzer" uid="128720" lat="47.6688568" lon="9.1598013"/>
+ <node id="1706407390" visible="true" version="1" changeset="11219349" timestamp="2012-04-07T22:19:01Z" user="EinKonstanzer" uid="128720" lat="47.6688997" lon="9.1599620"/>
+ <node id="1706407392" visible="true" version="1" changeset="11219349" timestamp="2012-04-07T22:19:01Z" user="EinKonstanzer" uid="128720" lat="47.6689252" lon="9.1695795"/>
+ <node id="1706407394" visible="true" version="2" changeset="11397885" timestamp="2012-04-23T17:54:46Z" user="EinKonstanzer" uid="128720" lat="47.6689516" lon="9.1698100"/>
+ <node id="1706407397" visible="true" version="1" changeset="11219349" timestamp="2012-04-07T22:19:01Z" user="EinKonstanzer" uid="128720" lat="47.6689724" lon="9.1696833"/>
+ <node id="1706407398" visible="true" version="1" changeset="11219349" timestamp="2012-04-07T22:19:01Z" user="EinKonstanzer" uid="128720" lat="47.6689759" lon="9.1603355"/>
+ <node id="1706407401" visible="true" version="2" changeset="11397885" timestamp="2012-04-23T17:54:46Z" user="EinKonstanzer" uid="128720" lat="47.6690239" lon="9.1690346"/>
+ <node id="1706407457" visible="true" version="2" changeset="11397885" timestamp="2012-04-23T17:54:47Z" user="EinKonstanzer" uid="128720" lat="47.6691974" lon="9.1680333"/>
+ <node id="1706407458" visible="true" version="1" changeset="11219349" timestamp="2012-04-07T22:19:04Z" user="EinKonstanzer" uid="128720" lat="47.6692042" lon="9.1615282"/>
+ <node id="1706407462" visible="true" version="1" changeset="11219349" timestamp="2012-04-07T22:19:04Z" user="EinKonstanzer" uid="128720" lat="47.6692597" lon="9.1619269"/>
+ <node id="1706407466" visible="true" version="2" changeset="11397885" timestamp="2012-04-23T17:54:48Z" user="EinKonstanzer" uid="128720" lat="47.6693216" lon="9.1669521"/>
+ <node id="1706407470" visible="true" version="2" changeset="11397885" timestamp="2012-04-23T17:54:48Z" user="EinKonstanzer" uid="128720" lat="47.6694060" lon="9.1657106"/>
+ <node id="1706407472" visible="true" version="2" changeset="11397885" timestamp="2012-04-23T17:54:48Z" user="EinKonstanzer" uid="128720" lat="47.6694285" lon="9.1642562"/>
+ <node id="1706407475" visible="true" version="1" changeset="11219349" timestamp="2012-04-07T22:19:04Z" user="EinKonstanzer" uid="128720" lat="47.6694498" lon="9.1632216"/>
+ <node id="1706407487" visible="true" version="2" changeset="11397885" timestamp="2012-04-23T17:54:48Z" user="EinKonstanzer" uid="128720" lat="47.6694516" lon="9.1635494"/>
+ <node id="1706407488" visible="true" version="2" changeset="11397885" timestamp="2012-04-23T17:54:48Z" user="EinKonstanzer" uid="128720" lat="47.6695018" lon="9.1633218"/>
+ <node id="1706407490" visible="true" version="2" changeset="11397885" timestamp="2012-04-23T17:54:48Z" user="EinKonstanzer" uid="128720" lat="47.6695031" lon="9.1634387"/>
+ <node id="1728226690" visible="true" version="1" changeset="11397885" timestamp="2012-04-23T17:52:49Z" user="EinKonstanzer" uid="128720" lat="47.6669690" lon="9.1587693"/>
+ <node id="1728226717" visible="true" version="1" changeset="11397885" timestamp="2012-04-23T17:52:49Z" user="EinKonstanzer" uid="128720" lat="47.6672622" lon="9.1589333"/>
+ <node id="1728226808" visible="true" version="1" changeset="11397885" timestamp="2012-04-23T17:52:51Z" user="EinKonstanzer" uid="128720" lat="47.6688631" lon="9.1698720"/>
+ <node id="1728226811" visible="true" version="1" changeset="11397885" timestamp="2012-04-23T17:52:51Z" user="EinKonstanzer" uid="128720" lat="47.6689228" lon="9.1698481"/>
+ <node id="1728226831" visible="true" version="1" changeset="11397885" timestamp="2012-04-23T17:52:52Z" user="EinKonstanzer" uid="128720" lat="47.6689503" lon="9.1696040"/>
+ <node id="1728226834" visible="true" version="1" changeset="11397885" timestamp="2012-04-23T17:52:52Z" user="EinKonstanzer" uid="128720" lat="47.6689698" lon="9.1697703"/>
+ <node id="1728226840" visible="true" version="1" changeset="11397885" timestamp="2012-04-23T17:52:52Z" user="EinKonstanzer" uid="128720" lat="47.6691238" lon="9.1685179"/>
+ <node id="1728226849" visible="true" version="1" changeset="11397885" timestamp="2012-04-23T17:52:52Z" user="EinKonstanzer" uid="128720" lat="47.6692557" lon="9.1676334"/>
+ <node id="1728226869" visible="true" version="1" changeset="11397885" timestamp="2012-04-23T17:52:53Z" user="EinKonstanzer" uid="128720" lat="47.6694098" lon="9.1631999"/>
+ <node id="2219944654" visible="true" version="2" changeset="16037674" timestamp="2013-05-08T20:29:19Z" user="seichter" uid="66497" lat="47.6660526" lon="9.1567524"/>
+ <node id="2275292185" visible="true" version="2" changeset="46428544" timestamp="2017-02-26T23:36:13Z" user="Seetroll" uid="135562" lat="47.6621278" lon="9.1675755"/>
+ <node id="2275292186" visible="true" version="2" changeset="46428544" timestamp="2017-02-26T23:36:13Z" user="Seetroll" uid="135562" lat="47.6622189" lon="9.1666953"/>
+ <node id="2296404465" visible="true" version="1" changeset="16037674" timestamp="2013-05-08T20:28:24Z" user="seichter" uid="66497" lat="47.6610016" lon="9.1625536"/>
+ <node id="2296404466" visible="true" version="1" changeset="16037674" timestamp="2013-05-08T20:28:24Z" user="seichter" uid="66497" lat="47.6613466" lon="9.1620710"/>
+ <node id="2296404467" visible="true" version="1" changeset="16037674" timestamp="2013-05-08T20:28:24Z" user="seichter" uid="66497" lat="47.6615198" lon="9.1618313"/>
+ <node id="2296404468" visible="true" version="1" changeset="16037674" timestamp="2013-05-08T20:28:24Z" user="seichter" uid="66497" lat="47.6616118" lon="9.1617056"/>
+ <node id="2296404469" visible="true" version="1" changeset="16037674" timestamp="2013-05-08T20:28:24Z" user="seichter" uid="66497" lat="47.6642668" lon="9.1594239"/>
+ <node id="2296404470" visible="true" version="1" changeset="16037674" timestamp="2013-05-08T20:28:24Z" user="seichter" uid="66497" lat="47.6650150" lon="9.1586312"/>
+ <node id="4707445509" visible="true" version="1" changeset="46428544" timestamp="2017-02-26T23:36:13Z" user="Seetroll" uid="135562" lat="47.6661459" lon="9.1687390"/>
+ <node id="4707445510" visible="true" version="1" changeset="46428544" timestamp="2017-02-26T23:36:13Z" user="Seetroll" uid="135562" lat="47.6657908" lon="9.1686700"/>
+ <node id="4707445511" visible="true" version="1" changeset="46428544" timestamp="2017-02-26T23:36:13Z" user="Seetroll" uid="135562" lat="47.6656864" lon="9.1685636"/>
+ <node id="4707445512" visible="true" version="1" changeset="46428544" timestamp="2017-02-26T23:36:13Z" user="Seetroll" uid="135562" lat="47.6644792" lon="9.1681829"/>
+ <node id="4707445513" visible="true" version="1" changeset="46428544" timestamp="2017-02-26T23:36:13Z" user="Seetroll" uid="135562" lat="47.6643703" lon="9.1682158"/>
+ <node id="4707445514" visible="true" version="1" changeset="46428544" timestamp="2017-02-26T23:36:13Z" user="Seetroll" uid="135562" lat="47.6634875" lon="9.1679198"/>
+ <node id="4707445515" visible="true" version="1" changeset="46428544" timestamp="2017-02-26T23:36:13Z" user="Seetroll" uid="135562" lat="47.6633676" lon="9.1679703"/>
+ <node id="4707445516" visible="true" version="1" changeset="46428544" timestamp="2017-02-26T23:36:13Z" user="Seetroll" uid="135562" lat="47.6604323" lon="9.1662589"/>
+ <node id="4707445517" visible="true" version="1" changeset="46428544" timestamp="2017-02-26T23:36:13Z" user="Seetroll" uid="135562" lat="47.6600572" lon="9.1658896"/>
+ <node id="4707445518" visible="true" version="1" changeset="46428544" timestamp="2017-02-26T23:36:13Z" user="Seetroll" uid="135562" lat="47.6687515" lon="9.1696850"/>
+ <way id="124053341" visible="true" version="16" changeset="55490360" timestamp="2018-01-16T11:39:31Z" user="Peilscheibe" uid="35560">
+  <nd ref="1372920033"/>
+  <nd ref="323277781"/>
+  <nd ref="2296404470"/>
+  <nd ref="324154394"/>
+  <nd ref="2296404469"/>
+  <nd ref="323662576"/>
+  <nd ref="323872038"/>
+  <nd ref="323884291"/>
+  <nd ref="323499930"/>
+  <nd ref="323872029"/>
+  <nd ref="324585881"/>
+  <nd ref="323727568"/>
+  <nd ref="323355104"/>
+  <nd ref="323648322"/>
+  <nd ref="2296404468"/>
+  <nd ref="2296404467"/>
+  <nd ref="2296404466"/>
+  <nd ref="2296404465"/>
+  <nd ref="1372919738"/>
+  <tag k="admin_level" v="2"/>
+  <tag k="border_type" v="nation"/>
+  <tag k="boundary" v="administrative"/>
+  <tag k="source" v="CIA World Databank II;http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005"/>
+ </way>
+ <way id="124053350" visible="true" version="16" changeset="51064134" timestamp="2017-08-12T17:45:45Z" user="Andreas Binder" uid="268988">
+  <nd ref="1372919738"/>
+  <nd ref="323701297"/>
+  <nd ref="324093461"/>
+  <tag k="admin_level" v="2"/>
+  <tag k="border_type" v="nation"/>
+  <tag k="boundary" v="administrative"/>
+  <tag k="source" v="CIA World Databank II;http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005"/>
+ </way>
+ <way id="212102525" visible="true" version="2" changeset="16760858" timestamp="2013-06-30T06:45:25Z" user="kuede" uid="8296">
+  <nd ref="2219944654"/>
+  <nd ref="339176350"/>
+  <nd ref="339176353"/>
+  <nd ref="339176344"/>
+  <nd ref="324123999"/>
+  <nd ref="339176340"/>
+  <nd ref="339176336"/>
+  <nd ref="1728226690"/>
+  <nd ref="1728226717"/>
+  <nd ref="339176331"/>
+  <nd ref="339176329"/>
+  <nd ref="1706407382"/>
+  <nd ref="323282654"/>
+  <nd ref="1706407386"/>
+  <nd ref="1706407389"/>
+  <nd ref="1706407390"/>
+  <nd ref="1706407398"/>
+  <nd ref="339176324"/>
+  <nd ref="1706407458"/>
+  <nd ref="1706407462"/>
+  <nd ref="339176321"/>
+  <nd ref="371990297"/>
+  <nd ref="1728226869"/>
+  <nd ref="1706407475"/>
+  <nd ref="1706407488"/>
+  <nd ref="1706407490"/>
+  <nd ref="1706407487"/>
+  <nd ref="371990507"/>
+  <nd ref="1706407472"/>
+  <nd ref="343769662"/>
+  <nd ref="1706407470"/>
+  <nd ref="26040771"/>
+  <nd ref="1706407466"/>
+  <nd ref="1728226849"/>
+  <nd ref="1706407457"/>
+  <nd ref="1728226840"/>
+  <nd ref="1706407401"/>
+  <nd ref="309121331"/>
+  <nd ref="1706407392"/>
+  <nd ref="1728226831"/>
+  <nd ref="309121330"/>
+  <nd ref="1706407397"/>
+  <nd ref="309121329"/>
+  <nd ref="1728226834"/>
+  <nd ref="1706407394"/>
+  <nd ref="1728226811"/>
+  <nd ref="309121328"/>
+  <nd ref="1728226808"/>
+  <nd ref="1706407388"/>
+  <tag k="admin_level" v="10"/>
+  <tag k="boundary" v="administrative"/>
+ </way>
+ <way id="212102560" visible="true" version="5" changeset="46428544" timestamp="2017-02-26T23:36:14Z" user="Seetroll" uid="135562">
+  <nd ref="1706407388"/>
+  <nd ref="4707445518"/>
+  <nd ref="4707445509"/>
+  <nd ref="4707445510"/>
+  <nd ref="4707445511"/>
+  <nd ref="4707445512"/>
+  <nd ref="4707445513"/>
+  <nd ref="4707445514"/>
+  <nd ref="4707445515"/>
+  <nd ref="2275292185"/>
+  <nd ref="2275292186"/>
+  <nd ref="4707445516"/>
+  <nd ref="4707445517"/>
+  <nd ref="324093461"/>
+  <tag k="admin_level" v="10"/>
+  <tag k="boundary" v="administrative"/>
+ </way>
+ <way id="220528378" visible="true" version="5" changeset="20050162" timestamp="2014-01-17T16:24:29Z" user="woodpeck_repair" uid="145231">
+  <nd ref="2219944654"/>
+  <nd ref="1372920033"/>
+  <tag k="admin_level" v="2"/>
+  <tag k="border_type" v="nation"/>
+  <tag k="boundary" v="administrative"/>
+  <tag k="left:country" v="Germany"/>
+  <tag k="name" v="Deutschland - Schweiz / Suisse / Svizerra"/>
+  <tag k="name:de" v="Deutschland - Schweiz"/>
+  <tag k="name:fr" v="Allemagne - Suisse"/>
+  <tag k="name:it" v="Germania - Svizzera"/>
+  <tag k="name:nl" v="Duitsland - Zwitserland"/>
+  <tag k="name:ru" v="Германия - Швейцария"/>
+  <tag k="right:country" v="Switzerland"/>
+  <tag k="source" v="LGL, www.lgl-bw.de; HiRes aerial imagery (CIA World Databank II;CIA World Databank II;http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005)"/>
+ </way>
+ <relation id="1631787" visible="true" version="11" changeset="46345728" timestamp="2017-02-23T18:25:59Z" user="dooley" uid="106701">
+  <member type="node" ref="1636973781" role="admin_centre"/>
+  <member type="way" ref="212102560" role="outer"/>
+  <member type="way" ref="212102525" role="outer"/>
+  <member type="way" ref="220528378" role="outer"/>
+  <member type="way" ref="124053341" role="outer"/>
+  <member type="way" ref="124053350" role="outer"/>
+  <tag k="admin_level" v="10"/>
+  <tag k="boundary" v="administrative"/>
+  <tag k="is_in" v="Konstanz,Konstanz,Freiburg,Baden-Württemberg,Bundesrepublik Deutschland,Europe"/>
+  <tag k="name" v="Konstanz-Paradies"/>
+  <tag k="place" v="suburb"/>
+  <tag k="short_name" v="Paradies"/>
+  <tag k="type" v="boundary"/>
+ </relation>
+</osm>

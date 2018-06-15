@@ -1,11 +1,309 @@
---2018-06-15 19:11:16--  https://www.openstreetmap.org/api/0.6/relation/2890760/full
-Auflösen des Hostnamens www.openstreetmap.org (www.openstreetmap.org)… 193.63.75.100, 193.63.75.99, 193.63.75.103
-Verbindungsaufbau zu www.openstreetmap.org (www.openstreetmap.org)|193.63.75.100|:443 … verbunden.
-HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
-Länge: nicht spezifiziert [text/xml]
-Wird in »full.1« gespeichert.
-
-     0K .......... .......... ...                               674K=0,04s
-
-2018-06-15 19:11:17 (674 KB/s) - »full.1« gespeichert [24371]
-
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.6.0 (22834 thorn-03.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="82794126" visible="true" version="9" changeset="5565667" timestamp="2010-08-22T20:48:24Z" user="EinKonstanzer" uid="128720" lat="47.6830625" lon="9.1836693"/>
+ <node id="186420752" visible="true" version="9" changeset="10004469" timestamp="2011-12-01T00:04:24Z" user="Seetroll" uid="135562" lat="47.6834842" lon="9.1832834"/>
+ <node id="186420764" visible="true" version="8" changeset="10004469" timestamp="2011-12-01T00:04:24Z" user="Seetroll" uid="135562" lat="47.6828568" lon="9.1841226"/>
+ <node id="186420766" visible="true" version="5" changeset="7630014" timestamp="2011-03-21T18:26:15Z" user="fraktum" uid="40503" lat="47.6828237" lon="9.1849696"/>
+ <node id="186420769" visible="true" version="7" changeset="10004469" timestamp="2011-12-01T00:04:24Z" user="Seetroll" uid="135562" lat="47.6827791" lon="9.1854561"/>
+ <node id="186420773" visible="true" version="7" changeset="10004469" timestamp="2011-12-01T00:04:24Z" user="Seetroll" uid="135562" lat="47.6827194" lon="9.1859979"/>
+ <node id="186420779" visible="true" version="7" changeset="10004469" timestamp="2011-12-01T00:04:24Z" user="Seetroll" uid="135562" lat="47.6826366" lon="9.1873755"/>
+ <node id="197251924" visible="true" version="8" changeset="17662701" timestamp="2013-09-03T22:18:32Z" user="seichter" uid="66497" lat="47.6839787" lon="9.1825571"/>
+ <node id="197251930" visible="true" version="6" changeset="5556287" timestamp="2010-08-21T22:03:05Z" user="EinKonstanzer" uid="128720" lat="47.6846784" lon="9.1818423"/>
+ <node id="264352814" visible="true" version="3" changeset="10046221" timestamp="2011-12-05T22:34:07Z" user="Seetroll" uid="135562" lat="47.6874400" lon="9.1935245"/>
+ <node id="264352820" visible="true" version="3" changeset="10013756" timestamp="2011-12-02T01:20:58Z" user="Seetroll" uid="135562" lat="47.6860769" lon="9.1931353"/>
+ <node id="264352823" visible="true" version="2" changeset="450816" timestamp="2009-04-12T22:42:02Z" user="Laguna Seca" uid="36000" lat="47.6849102" lon="9.1927412"/>
+ <node id="264352827" visible="true" version="3" changeset="10004469" timestamp="2011-12-01T00:04:25Z" user="Seetroll" uid="135562" lat="47.6844495" lon="9.1927863"/>
+ <node id="264352830" visible="true" version="2" changeset="450816" timestamp="2009-04-12T22:42:02Z" user="Laguna Seca" uid="36000" lat="47.6841142" lon="9.1929632"/>
+ <node id="264352833" visible="true" version="3" changeset="10004469" timestamp="2011-12-01T00:04:25Z" user="Seetroll" uid="135562" lat="47.6838138" lon="9.1928583"/>
+ <node id="264352835" visible="true" version="3" changeset="10004469" timestamp="2011-12-01T00:04:25Z" user="Seetroll" uid="135562" lat="47.6835811" lon="9.1926867"/>
+ <node id="264352838" visible="true" version="3" changeset="9990348" timestamp="2011-11-29T18:02:33Z" user="Seetroll" uid="135562" lat="47.6831375" lon="9.1925735"/>
+ <node id="301451446" visible="true" version="4" changeset="9595684" timestamp="2011-10-18T22:13:53Z" user="Seetroll" uid="135562" lat="47.6887934" lon="9.1723061"/>
+ <node id="302087408" visible="true" version="6" changeset="15889533" timestamp="2013-04-27T22:44:09Z" user="fetz" uid="171926" lat="47.6886191" lon="9.1718382"/>
+ <node id="315118831" visible="true" version="8" changeset="17662701" timestamp="2013-09-03T22:18:32Z" user="seichter" uid="66497" lat="47.6837781" lon="9.1828411"/>
+ <node id="331542084" visible="true" version="2" changeset="10046221" timestamp="2011-12-05T22:34:11Z" user="Seetroll" uid="135562" lat="47.6881856" lon="9.1936716"/>
+ <node id="336086227" visible="true" version="7" changeset="9990348" timestamp="2011-11-29T18:02:34Z" user="Seetroll" uid="135562" lat="47.6826671" lon="9.1877784"/>
+ <node id="337433149" visible="true" version="4" changeset="9990348" timestamp="2011-11-29T18:02:34Z" user="Seetroll" uid="135562" lat="47.6825603" lon="9.1916837"/>
+ <node id="337433159" visible="true" version="2" changeset="1863225" timestamp="2009-07-18T13:22:02Z" user="klausis" uid="85761" lat="47.6826257" lon="9.1922715"/>
+ <node id="342929623" visible="true" version="4" changeset="15810822" timestamp="2013-04-21T13:34:23Z" user="seichter" uid="66497" lat="47.6890804" lon="9.2016131"/>
+ <node id="342929630" visible="true" version="4" changeset="15810822" timestamp="2013-04-21T13:34:23Z" user="seichter" uid="66497" lat="47.6882754" lon="9.2009662"/>
+ <node id="342929631" visible="true" version="4" changeset="15810822" timestamp="2013-04-21T13:34:23Z" user="seichter" uid="66497" lat="47.6881368" lon="9.1969367"/>
+ <node id="342929635" visible="true" version="3" changeset="362988" timestamp="2009-04-08T22:57:33Z" user="Hyrion" uid="114638" lat="47.6883554" lon="9.1944597"/>
+ <node id="342929643" visible="true" version="4" changeset="15810822" timestamp="2013-04-21T13:34:23Z" user="seichter" uid="66497" lat="47.6883694" lon="9.1936944"/>
+ <node id="343745495" visible="true" version="3" changeset="15810822" timestamp="2013-04-21T13:34:23Z" user="seichter" uid="66497" lat="47.6908388" lon="9.2008420"/>
+ <node id="631171451" visible="true" version="1" changeset="3801648" timestamp="2010-02-05T23:28:37Z" user="Snooze86" uid="221877" lat="47.6887181" lon="9.1744085"/>
+ <node id="631171452" visible="true" version="5" changeset="10004469" timestamp="2011-12-01T00:04:28Z" user="Seetroll" uid="135562" lat="47.6825809" lon="9.1869213"/>
+ <node id="631171453" visible="true" version="4" changeset="10046221" timestamp="2011-12-05T22:34:39Z" user="Seetroll" uid="135562" lat="47.6850552" lon="9.1816058"/>
+ <node id="631171455" visible="true" version="1" changeset="3801648" timestamp="2010-02-05T23:28:37Z" user="Snooze86" uid="221877" lat="47.6863283" lon="9.1805730"/>
+ <node id="631171457" visible="true" version="1" changeset="3801648" timestamp="2010-02-05T23:28:37Z" user="Snooze86" uid="221877" lat="47.6870508" lon="9.1798024"/>
+ <node id="631171460" visible="true" version="1" changeset="3801648" timestamp="2010-02-05T23:28:38Z" user="Snooze86" uid="221877" lat="47.6876621" lon="9.1781787"/>
+ <node id="859528955" visible="true" version="3" changeset="10004469" timestamp="2011-12-01T00:04:29Z" user="Seetroll" uid="135562" lat="47.6833017" lon="9.1834890"/>
+ <node id="859528959" visible="true" version="2" changeset="7630014" timestamp="2011-03-21T18:26:15Z" user="fraktum" uid="40503" lat="47.6828649" lon="9.1843371"/>
+ <node id="859528961" visible="true" version="3" changeset="9595684" timestamp="2011-10-18T22:14:05Z" user="Seetroll" uid="135562" lat="47.6889107" lon="9.1727065"/>
+ <node id="872721667" visible="true" version="2" changeset="10004469" timestamp="2011-12-01T00:04:29Z" user="Seetroll" uid="135562" lat="47.6842016" lon="9.1822836"/>
+ <node id="872721799" visible="true" version="1" changeset="5556287" timestamp="2010-08-21T22:02:46Z" user="EinKonstanzer" uid="128720" lat="47.6832001" lon="9.1835824"/>
+ <node id="872721819" visible="true" version="1" changeset="5556287" timestamp="2010-08-21T22:02:46Z" user="EinKonstanzer" uid="128720" lat="47.6887242" lon="9.1720937"/>
+ <node id="872721886" visible="true" version="1" changeset="5556287" timestamp="2010-08-21T22:02:48Z" user="EinKonstanzer" uid="128720" lat="47.6847783" lon="9.1817656"/>
+ <node id="1338841831" visible="true" version="6" changeset="54517647" timestamp="2017-12-10T18:06:49Z" user="Seetroll" uid="135562" lat="47.6925790" lon="9.1935026">
+  <tag k="is_in" v="Konstanz,Konstanz,Freiburg,Baden-Württemberg,Bundesrepublik Deutschland,Europe"/>
+  <tag k="name" v="Egg"/>
+  <tag k="openGeoDB:auto_update" v="population,place,name,is_in"/>
+  <tag k="openGeoDB:community_identification_number" v="08335043"/>
+  <tag k="opengeodb:lat" v="47.7000"/>
+  <tag k="openGeoDB:layer" v="8"/>
+  <tag k="openGeoDB:loc_id" v="81828"/>
+  <tag k="opengeodb:lon" v="9.2000"/>
+  <tag k="openGeoDB:name" v="Egg"/>
+  <tag k="openGeoDB:postal_codes" v="78464"/>
+  <tag k="openGeoDB:sort_name" v="EGG"/>
+  <tag k="openGeoDB:telephone_area_code" v="07531"/>
+  <tag k="openGeoDB:type" v="suburb"/>
+  <tag k="place" v="suburb"/>
+  <tag k="population" v="699"/>
+  <tag k="postal_code" v="78464"/>
+  <tag k="wikidata" v="Q21039590"/>
+  <tag k="wikipedia" v="de:Egg (Konstanz)"/>
+ </node>
+ <node id="2173162505" visible="true" version="1" changeset="15159295" timestamp="2013-02-25T09:59:48Z" user="seichter" uid="66497" lat="47.6930343" lon="9.1987724"/>
+ <node id="2173162509" visible="true" version="1" changeset="15159295" timestamp="2013-02-25T09:59:48Z" user="seichter" uid="66497" lat="47.6944234" lon="9.1959155"/>
+ <node id="2173162510" visible="true" version="1" changeset="15159295" timestamp="2013-02-25T09:59:48Z" user="seichter" uid="66497" lat="47.6947421" lon="9.1952601"/>
+ <node id="2173162511" visible="true" version="1" changeset="15159295" timestamp="2013-02-25T09:59:48Z" user="seichter" uid="66497" lat="47.6947735" lon="9.1947566"/>
+ <node id="2173162512" visible="true" version="1" changeset="15159295" timestamp="2013-02-25T09:59:48Z" user="seichter" uid="66497" lat="47.6948114" lon="9.1949787"/>
+ <node id="2173162513" visible="true" version="1" changeset="15159295" timestamp="2013-02-25T09:59:48Z" user="seichter" uid="66497" lat="47.6948261" lon="9.1950872"/>
+ <node id="2173162514" visible="true" version="1" changeset="15159295" timestamp="2013-02-25T09:59:48Z" user="seichter" uid="66497" lat="47.6948527" lon="9.1945420"/>
+ <node id="2173162515" visible="true" version="1" changeset="15159295" timestamp="2013-02-25T09:59:48Z" user="seichter" uid="66497" lat="47.6950493" lon="9.1940092"/>
+ <node id="2173162516" visible="true" version="1" changeset="15159295" timestamp="2013-02-25T09:59:48Z" user="seichter" uid="66497" lat="47.6954190" lon="9.1932855"/>
+ <node id="2173162518" visible="true" version="1" changeset="15159295" timestamp="2013-02-25T09:59:48Z" user="seichter" uid="66497" lat="47.6956793" lon="9.1928781"/>
+ <node id="2173162520" visible="true" version="1" changeset="15159295" timestamp="2013-02-25T09:59:48Z" user="seichter" uid="66497" lat="47.6958332" lon="9.1928220"/>
+ <node id="2173162521" visible="true" version="1" changeset="15159295" timestamp="2013-02-25T09:59:48Z" user="seichter" uid="66497" lat="47.6959325" lon="9.1927089"/>
+ <node id="2173162522" visible="true" version="1" changeset="15159295" timestamp="2013-02-25T09:59:48Z" user="seichter" uid="66497" lat="47.6960142" lon="9.1925390"/>
+ <node id="2173162524" visible="true" version="1" changeset="15159295" timestamp="2013-02-25T09:59:48Z" user="seichter" uid="66497" lat="47.6960838" lon="9.1923045"/>
+ <node id="2173162526" visible="true" version="1" changeset="15159295" timestamp="2013-02-25T09:59:48Z" user="seichter" uid="66497" lat="47.6961183" lon="9.1919072"/>
+ <node id="2173162530" visible="true" version="1" changeset="15159295" timestamp="2013-02-25T09:59:48Z" user="seichter" uid="66497" lat="47.6966810" lon="9.1898758"/>
+ <node id="2173162536" visible="true" version="1" changeset="15159295" timestamp="2013-02-25T09:59:48Z" user="seichter" uid="66497" lat="47.6977318" lon="9.1873391"/>
+ <node id="2173162545" visible="true" version="1" changeset="15159295" timestamp="2013-02-25T09:59:49Z" user="seichter" uid="66497" lat="47.6992554" lon="9.1865753"/>
+ <node id="2173162572" visible="true" version="1" changeset="15159295" timestamp="2013-02-25T09:59:49Z" user="seichter" uid="66497" lat="47.7018175" lon="9.1852964"/>
+ <node id="2173162578" visible="true" version="1" changeset="15159295" timestamp="2013-02-25T09:59:49Z" user="seichter" uid="66497" lat="47.7021686" lon="9.1852139"/>
+ <node id="2173162596" visible="true" version="1" changeset="15159295" timestamp="2013-02-25T09:59:50Z" user="seichter" uid="66497" lat="47.7025750" lon="9.1866051"/>
+ <node id="2173162604" visible="true" version="1" changeset="15159295" timestamp="2013-02-25T09:59:50Z" user="seichter" uid="66497" lat="47.7026952" lon="9.1865796"/>
+ <node id="2173162606" visible="true" version="1" changeset="15159295" timestamp="2013-02-25T09:59:50Z" user="seichter" uid="66497" lat="47.7027352" lon="9.1865591"/>
+ <node id="2173162608" visible="true" version="1" changeset="15159295" timestamp="2013-02-25T09:59:50Z" user="seichter" uid="66497" lat="47.7027700" lon="9.1865182"/>
+ <node id="2173162610" visible="true" version="1" changeset="15159295" timestamp="2013-02-25T09:59:50Z" user="seichter" uid="66497" lat="47.7027995" lon="9.1864796"/>
+ <node id="2173162612" visible="true" version="1" changeset="15159295" timestamp="2013-02-25T09:59:50Z" user="seichter" uid="66497" lat="47.7028361" lon="9.1864028"/>
+ <node id="2173162613" visible="true" version="1" changeset="15159295" timestamp="2013-02-25T09:59:50Z" user="seichter" uid="66497" lat="47.7028706" lon="9.1862265"/>
+ <node id="2173162633" visible="true" version="1" changeset="15159295" timestamp="2013-02-25T09:59:52Z" user="seichter" uid="66497" lat="47.7032453" lon="9.1823106"/>
+ <node id="2275292227" visible="true" version="2" changeset="17662701" timestamp="2013-09-03T22:18:32Z" user="seichter" uid="66497" lat="47.6841434" lon="9.1822648"/>
+ <node id="2275292231" visible="true" version="1" changeset="15810822" timestamp="2013-04-21T13:34:15Z" user="seichter" uid="66497" lat="47.6904658" lon="9.1729158"/>
+ <node id="2275292232" visible="true" version="1" changeset="15810822" timestamp="2013-04-21T13:34:15Z" user="seichter" uid="66497" lat="47.6913984" lon="9.2013892"/>
+ <node id="2275292233" visible="true" version="1" changeset="15810822" timestamp="2013-04-21T13:34:15Z" user="seichter" uid="66497" lat="47.6916445" lon="9.2016346"/>
+ <node id="2275292234" visible="true" version="1" changeset="15810822" timestamp="2013-04-21T13:34:15Z" user="seichter" uid="66497" lat="47.6916597" lon="9.1719113"/>
+ <node id="2275292235" visible="true" version="1" changeset="15810822" timestamp="2013-04-21T13:34:15Z" user="seichter" uid="66497" lat="47.6933715" lon="9.1727021"/>
+ <node id="2275292237" visible="true" version="1" changeset="15810822" timestamp="2013-04-21T13:34:15Z" user="seichter" uid="66497" lat="47.6953710" lon="9.1741122"/>
+ <node id="2275292240" visible="true" version="1" changeset="15810822" timestamp="2013-04-21T13:34:15Z" user="seichter" uid="66497" lat="47.6972984" lon="9.1750952"/>
+ <node id="2275292242" visible="true" version="1" changeset="15810822" timestamp="2013-04-21T13:34:15Z" user="seichter" uid="66497" lat="47.6979313" lon="9.1720178"/>
+ <node id="2275292244" visible="true" version="1" changeset="15810822" timestamp="2013-04-21T13:34:15Z" user="seichter" uid="66497" lat="47.6985642" lon="9.1724453"/>
+ <node id="2275292245" visible="true" version="1" changeset="15810822" timestamp="2013-04-21T13:34:15Z" user="seichter" uid="66497" lat="47.6989956" lon="9.1676582"/>
+ <node id="2275292246" visible="true" version="1" changeset="15810822" timestamp="2013-04-21T13:34:15Z" user="seichter" uid="66497" lat="47.7004914" lon="9.1686202"/>
+ <node id="2275292247" visible="true" version="1" changeset="15810822" timestamp="2013-04-21T13:34:15Z" user="seichter" uid="66497" lat="47.7013256" lon="9.1791770"/>
+ <node id="2275292248" visible="true" version="1" changeset="15810822" timestamp="2013-04-21T13:34:15Z" user="seichter" uid="66497" lat="47.7014982" lon="9.1760996"/>
+ <node id="2275292249" visible="true" version="1" changeset="15810822" timestamp="2013-04-21T13:34:15Z" user="seichter" uid="66497" lat="47.7015845" lon="9.1722529"/>
+ <node id="2275292250" visible="true" version="1" changeset="15810822" timestamp="2013-04-21T13:34:15Z" user="seichter" uid="66497" lat="47.7024043" lon="9.1776597"/>
+ <node id="2275292251" visible="true" version="1" changeset="15810822" timestamp="2013-04-21T13:34:15Z" user="seichter" uid="66497" lat="47.7025913" lon="9.1716118"/>
+ <node id="2275292252" visible="true" version="1" changeset="15810822" timestamp="2013-04-21T13:34:15Z" user="seichter" uid="66497" lat="47.7026488" lon="9.1689405"/>
+ <node id="2275292253" visible="true" version="1" changeset="15810822" timestamp="2013-04-21T13:34:15Z" user="seichter" uid="66497" lat="47.7028933" lon="9.1698380"/>
+ <node id="2275542423" visible="true" version="1" changeset="15812713" timestamp="2013-04-21T16:14:06Z" user="seichter" uid="66497" lat="47.6825733" lon="9.1896967"/>
+ <node id="2275741768" visible="true" version="1" changeset="15813898" timestamp="2013-04-21T17:39:40Z" user="seichter" uid="66497" lat="47.6897855" lon="9.2022570"/>
+ <node id="4870411384" visible="true" version="1" changeset="48896467" timestamp="2017-05-22T18:43:50Z" user="sebafroh" uid="203906" lat="47.6961911" lon="9.1745304"/>
+ <node id="5156223185" visible="true" version="1" changeset="52745189" timestamp="2017-10-09T01:44:27Z" user="int64" uid="6770732" lat="47.6825630" lon="9.1912693"/>
+ <node id="5156245544" visible="true" version="1" changeset="52745266" timestamp="2017-10-09T01:55:38Z" user="int64" uid="6770732" lat="47.6825637" lon="9.1911639"/>
+ <node id="5643902671" visible="true" version="1" changeset="59296013" timestamp="2018-05-26T15:07:26Z" user="Seetroll" uid="135562" lat="47.6826363" lon="9.1925211"/>
+ <way id="212102626" visible="true" version="3" changeset="15813898" timestamp="2013-04-21T17:39:47Z" user="seichter" uid="66497">
+  <nd ref="2275292233"/>
+  <nd ref="2275292232"/>
+  <nd ref="343745495"/>
+  <nd ref="2275741768"/>
+  <tag k="admin_level" v="10"/>
+  <tag k="boundary" v="administrative"/>
+  <tag k="source" v="de.wikipedia.org/wiki/Konstanz_Stadtteile.png"/>
+ </way>
+ <way id="218264680" visible="true" version="6" changeset="52745266" timestamp="2017-10-09T01:55:38Z" user="int64" uid="6770732">
+  <nd ref="2275542423"/>
+  <nd ref="5156245544"/>
+  <nd ref="5156223185"/>
+  <tag k="admin_level" v="10"/>
+  <tag k="boundary" v="administrative"/>
+  <tag k="source" v="de.wikipedia.org/wiki/Konstanz_Stadtteile.png"/>
+ </way>
+ <way id="218264683" visible="true" version="1" changeset="15810822" timestamp="2013-04-21T13:34:19Z" user="seichter" uid="66497">
+  <nd ref="2275292252"/>
+  <nd ref="2275292246"/>
+  <nd ref="2275292245"/>
+  <tag k="admin_level" v="10"/>
+  <tag k="boundary" v="administrative"/>
+  <tag k="source" v="de.wikipedia.org/wiki/Konstanz_Stadtteile.png"/>
+ </way>
+ <way id="218264686" visible="true" version="4" changeset="48896467" timestamp="2017-05-22T18:43:52Z" user="sebafroh" uid="203906">
+  <nd ref="2275292245"/>
+  <nd ref="2275292242"/>
+  <nd ref="2275292244"/>
+  <nd ref="2275292240"/>
+  <nd ref="4870411384"/>
+  <nd ref="2275292237"/>
+  <tag k="admin_level" v="10"/>
+  <tag k="boundary" v="administrative"/>
+  <tag k="source" v="de.wikipedia.org/wiki/Konstanz_Stadtteile.png"/>
+ </way>
+ <way id="218264688" visible="true" version="2" changeset="20756097" timestamp="2014-02-24T18:24:31Z" user="seichter" uid="66497">
+  <nd ref="2275292237"/>
+  <nd ref="2275292235"/>
+  <tag k="admin_level" v="10"/>
+  <tag k="boundary" v="administrative"/>
+  <tag k="source" v="de.wikipedia.org/wiki/Konstanz_Stadtteile.png"/>
+ </way>
+ <way id="218264694" visible="true" version="3" changeset="17528817" timestamp="2013-08-27T04:25:51Z" user="fx99" uid="130472">
+  <nd ref="2173162633"/>
+  <nd ref="2275292247"/>
+  <nd ref="2275292250"/>
+  <nd ref="2275292248"/>
+  <nd ref="2275292249"/>
+  <nd ref="2275292251"/>
+  <nd ref="2275292253"/>
+  <nd ref="2275292252"/>
+  <tag k="admin_level" v="10"/>
+  <tag k="boundary" v="administrative"/>
+  <tag k="source" v="de.wikipedia.org/wiki/Konstanz_Stadtteile.png"/>
+ </way>
+ <way id="218323024" visible="true" version="5" changeset="28371249" timestamp="2015-01-24T12:30:44Z" user="seichter" uid="66497">
+  <nd ref="2173162633"/>
+  <nd ref="2173162578"/>
+  <nd ref="2173162613"/>
+  <nd ref="2173162612"/>
+  <nd ref="2173162610"/>
+  <nd ref="2173162608"/>
+  <nd ref="2173162606"/>
+  <nd ref="2173162604"/>
+  <nd ref="2173162596"/>
+  <nd ref="2173162572"/>
+  <nd ref="2173162545"/>
+  <nd ref="2173162536"/>
+  <tag k="admin_level" v="5"/>
+  <tag k="boundary" v="administrative"/>
+  <tag k="source" v="LGL, www.lgl-bw.de"/>
+ </way>
+ <way id="220963374" visible="true" version="2" changeset="16484373" timestamp="2013-06-09T16:12:21Z" user="adjuva" uid="92274">
+  <nd ref="2173162530"/>
+  <nd ref="2173162526"/>
+  <nd ref="2173162524"/>
+  <nd ref="2173162522"/>
+  <nd ref="2173162521"/>
+  <nd ref="2173162520"/>
+  <nd ref="2173162518"/>
+  <nd ref="2173162516"/>
+  <nd ref="2173162515"/>
+  <nd ref="2173162514"/>
+  <nd ref="2173162511"/>
+  <nd ref="2173162512"/>
+  <nd ref="2173162513"/>
+  <nd ref="2173162510"/>
+  <nd ref="2173162509"/>
+  <nd ref="2173162505"/>
+  <nd ref="2275292233"/>
+  <tag k="admin_level" v="5"/>
+  <tag k="boundary" v="administrative"/>
+  <tag k="source" v="LGL, www.lgl-bw.de"/>
+ </way>
+ <way id="236483345" visible="true" version="1" changeset="17662701" timestamp="2013-09-03T22:18:24Z" user="seichter" uid="66497">
+  <nd ref="302087408"/>
+  <nd ref="872721819"/>
+  <nd ref="301451446"/>
+  <nd ref="859528961"/>
+  <nd ref="631171451"/>
+  <nd ref="631171460"/>
+  <nd ref="631171457"/>
+  <nd ref="631171455"/>
+  <nd ref="631171453"/>
+  <nd ref="872721886"/>
+  <nd ref="197251930"/>
+  <nd ref="872721667"/>
+  <nd ref="2275292227"/>
+  <nd ref="197251924"/>
+  <nd ref="315118831"/>
+  <nd ref="186420752"/>
+  <nd ref="859528955"/>
+  <nd ref="872721799"/>
+  <nd ref="82794126"/>
+  <nd ref="186420764"/>
+  <nd ref="859528959"/>
+  <nd ref="186420766"/>
+  <nd ref="186420769"/>
+  <nd ref="186420773"/>
+  <nd ref="631171452"/>
+  <nd ref="186420779"/>
+  <nd ref="336086227"/>
+  <nd ref="2275542423"/>
+  <tag k="admin_level" v="10"/>
+  <tag k="boundary" v="administrative"/>
+  <tag k="source" v="de.wikipedia.org/wiki/Konstanz_Stadtteile.png"/>
+ </way>
+ <way id="263253259" visible="true" version="1" changeset="20756097" timestamp="2014-02-24T18:24:30Z" user="seichter" uid="66497">
+  <nd ref="2275292235"/>
+  <nd ref="2275292234"/>
+  <nd ref="2275292231"/>
+  <nd ref="302087408"/>
+  <tag k="admin_level" v="10"/>
+  <tag k="boundary" v="administrative"/>
+  <tag k="source" v="de.wikipedia.org/wiki/Konstanz_Stadtteile.png"/>
+ </way>
+ <way id="323979541" visible="true" version="1" changeset="28371249" timestamp="2015-01-24T12:30:32Z" user="seichter" uid="66497">
+  <nd ref="2173162536"/>
+  <nd ref="2173162530"/>
+  <tag k="admin_level" v="5"/>
+  <tag k="boundary" v="administrative"/>
+  <tag k="source" v="LGL, www.lgl-bw.de"/>
+ </way>
+ <way id="531149890" visible="true" version="2" changeset="59456603" timestamp="2018-06-01T10:13:05Z" user="wolfgangth" uid="6198809">
+  <nd ref="5156223185"/>
+  <nd ref="337433149"/>
+  <nd ref="337433159"/>
+  <nd ref="5643902671"/>
+  <nd ref="264352838"/>
+  <nd ref="264352835"/>
+  <nd ref="264352833"/>
+  <nd ref="264352830"/>
+  <nd ref="264352827"/>
+  <nd ref="264352823"/>
+  <nd ref="264352820"/>
+  <nd ref="264352814"/>
+  <nd ref="331542084"/>
+  <nd ref="342929643"/>
+  <nd ref="342929635"/>
+  <nd ref="342929631"/>
+  <nd ref="342929630"/>
+  <nd ref="342929623"/>
+  <nd ref="2275741768"/>
+  <tag k="admin_level" v="10"/>
+  <tag k="boundary" v="administrative"/>
+  <tag k="source" v="de.wikipedia.org/wiki/Konstanz_Stadtteile.png"/>
+ </way>
+ <relation id="2890760" visible="true" version="11" changeset="52745216" timestamp="2017-10-09T01:48:02Z" user="int64" uid="6770732">
+  <member type="node" ref="1338841831" role="admin_centre"/>
+  <member type="way" ref="212102626" role="outer"/>
+  <member type="way" ref="218264680" role="outer"/>
+  <member type="way" ref="531149890" role="outer"/>
+  <member type="way" ref="236483345" role="outer"/>
+  <member type="way" ref="263253259" role="outer"/>
+  <member type="way" ref="218264688" role="outer"/>
+  <member type="way" ref="218264686" role="outer"/>
+  <member type="way" ref="218264683" role="outer"/>
+  <member type="way" ref="218264694" role="outer"/>
+  <member type="way" ref="218323024" role="outer"/>
+  <member type="way" ref="323979541" role="outer"/>
+  <member type="way" ref="220963374" role="outer"/>
+  <tag k="admin_level" v="10"/>
+  <tag k="boundary" v="administrative"/>
+  <tag k="is_in" v="Konstanz,Konstanz,Freiburg,Baden-Württemberg,Bundesrepublik Deutschland,Europe"/>
+  <tag k="name" v="Konstanz-Egg"/>
+  <tag k="place" v="suburb"/>
+  <tag k="short_name" v="Egg"/>
+  <tag k="type" v="boundary"/>
+ </relation>
+</osm>

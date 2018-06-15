@@ -1,0 +1,11 @@
+--2018-06-15 19:11:16--  https://www.openstreetmap.org/api/0.6/relation/2890760/full
+Auflösen des Hostnamens www.openstreetmap.org (www.openstreetmap.org)… 193.63.75.100, 193.63.75.99, 193.63.75.103
+Verbindungsaufbau zu www.openstreetmap.org (www.openstreetmap.org)|193.63.75.100|:443 … verbunden.
+HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
+Länge: nicht spezifiziert [text/xml]
+Wird in »full.1« gespeichert.
+
+     0K .......... .......... ...                               674K=0,04s
+
+2018-06-15 19:11:17 (674 KB/s) - »full.1« gespeichert [24371]
+

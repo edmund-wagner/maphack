@@ -115,9 +115,26 @@
         //]]>
     </script>
     <script type="text/javascript">
+        var cumulate = function (objects) {
+            var map = {};
+            for (var i=0; i < objects.length; i++) {
+                var obj = objects[i]
+                if (obj.EINW_HW_GESAMT !== undefined && obj.STT !== undefined && obj.Stand_Einwohner == "31.12.2011")
+                {
+                    if (map[obj.STT] === undefined) {
+                        map[obj.STT] = 0;
+                    }
+
+                  map[obj.STT] += Number.parseInt(obj.EINW_HW_GESAMT||0);
+                }
+            }
+
+            return map;
+        };
+
         $(document).ready(function() {
             $.get("data.csv", function (data) {
-                console.log($.csv.toObjects(data, {separator:";"}))
+                cumulate($.csv.toObjects(data, {separator:";"}))
             })
         })
     </script>

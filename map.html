@@ -24,6 +24,12 @@
         var layer_markers;
         var layer_osm;
 
+        function blub() {
+            alert('dfffff');
+        }
+        function showStatus(text) {
+            document.getElementById("status").innerHTML = text;
+        }
         function drawmap() {
             // Popup und Popuptext mit evtl. Grafik
             var popuptext="<font color=\"black\"><b>Thomas Heiles<br>Stra&szlig;e 123<br>54290 Trier</b><p><img src=\"test.jpg\" width=\"180\" height=\"113\"></p></font>";
@@ -62,9 +68,40 @@
                 projection: new OpenLayers.Projection("EPSG:4326")
             });
 
+            var report = function(e) {
+                console.log(e.type, e.feature.id);
+            };
+
+            var highlightCtrl = new OpenLayers.Control.SelectFeature(layer_osm, {
+                hover: true,
+                highlightOnly: true,
+                renderIntent: "temporary",
+                eventListeners: {
+                    beforefeaturehighlighted: report,
+                    featurehighlighted: report,
+                    featureunhighlighted: report
+                }
+            });
+
+            var selectCtrl = new OpenLayers.Control.SelectFeature(layer_osm, {
+                    clickout: true,
+                }
+            );
+            layer_osm.events.on({
+                "featureselected": function(e) {
+                    showStatus("selected feature "+e.feature.id+" on Vector Layer 1");
+                },
+                "featureunselected": function(e) {
+                    showStatus("unselected feature "+e.feature.id+" on Vector Layer 1");
+                }
+            });
+
+            map.addControl(highlightCtrl);
+            map.addControl(selectCtrl);
             map.addLayers([layer_mapnik, layer_markers, layer_osm]);
             jumpTo(lon, lat, zoom);
-
+            highlightCtrl.activate();
+            selectCtrl.activate();
             // Position des Markers
             //addMarker(layer_markers, 6.641389, 49.756667, popuptext);
 
@@ -78,6 +115,7 @@
 
 <div id="header">
     <div id="content">Karte (Testversion)</div>
+    <div id="status">statzs</div>
     <div id="osm">© <a href="http://www.openstreetmap.org">OpenStreetMap</a>
         und <a href="http://www.openstreetmap.org/copyright">Mitwirkende</a>,
         <a href="http://creativecommons.org/licenses/by-sa/2.0/deed.de">CC-BY-SA</a>

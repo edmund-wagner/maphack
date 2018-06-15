@@ -119,13 +119,17 @@
             var map = {};
             for (var i=0; i < objects.length; i++) {
                 var obj = objects[i]
-                if (obj.EINW_HW_GESAMT !== undefined && obj.STT !== undefined && obj.Stand_Einwohner == "31.12.2011")
+                if (obj.EINW_HW_GESAMT !== undefined && obj.STT !== undefined)
                 {
-                    if (map[obj.STT] === undefined) {
-                        map[obj.STT] = 0;
+                    if(map[obj.Stand_Einwohner] === undefined){
+                        map[obj.Stand_Einwohner] = {};
                     }
 
-                  map[obj.STT] += Number.parseInt(obj.EINW_HW_GESAMT||0);
+                    if (map[obj.Stand_Einwohner][obj.STT] === undefined) {
+                        map[obj.Stand_Einwohner][obj.STT] = 0;
+                    }
+
+                  map[obj.Stand_Einwohner][obj.STT] += Number.parseInt(obj.EINW_HW_GESAMT||0);
                 }
             }
 
@@ -134,8 +138,10 @@
 
         $(document).ready(function() {
             $.get("data.csv", function (data) {
-                cumulate($.csv.toObjects(data, {separator:";"}))
-            })
+                var data = cumulate($.csv.toObjects(data, {separator:";"}));
+                console.log(data);
+            });
+
         })
     </script>
 

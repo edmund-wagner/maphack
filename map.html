@@ -114,6 +114,13 @@
 
         //]]>
     </script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $.get("data.csv", function (data) {
+                console.log($.csv.toObjects(data, {separator:";"}))
+            })
+        })
+    </script>
 
 </head>
 <body onload="drawmap();">

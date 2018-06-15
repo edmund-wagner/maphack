@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.6.0 (15394 thorn-01.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="1897670663" visible="true" version="6" changeset="56237664" timestamp="2018-02-10T10:28:26Z" user="BeKri" uid="14390" lat="47.6620446" lon="9.1751139">
+  <tag k="is_in" v="Konstanz,Konstanz,Freiburg,Baden-Württemberg,Bundesrepublik Deutschland,Europe"/>
+  <tag k="name" v="Altstadt"/>
+  <tag k="place" v="suburb"/>
+  <tag k="population" v="11866"/>
+  <tag k="postal_code" v="78462"/>
+ </node>
+ <way id="54436444" visible="true" version="24" changeset="44318355" timestamp="2016-12-11T09:28:21Z" user="Nzara" uid="481380">
+   <nd ref="585339005"/>
+   <nd ref="1728226414"/>
+   <nd ref="277585507"/>
+   <nd ref="1382302257"/>
+   <nd ref="472627475"/>
+   <nd ref="1382302253"/>
+   <nd ref="1382302251"/>
+   <nd ref="294848365"/>
+   <nd ref="294663489"/>
+   <nd ref="1728226353"/>
+   <nd ref="1382302249"/>
+   <nd ref="1382302247"/>
+   <nd ref="1382302248"/>
+   <nd ref="1400187706"/>
+   <nd ref="1728226342"/>
+   <nd ref="472627478"/>
+   <nd ref="1382302250"/>
+   <nd ref="472627479"/>
+   <nd ref="1382302254"/>
+   <nd ref="1382302255"/>
+   <nd ref="294663491"/>
+   <nd ref="294663493"/>
+   <nd ref="1382302258"/>
+   <nd ref="1382302259"/>
+   <nd ref="472627482"/>
+   <nd ref="294674724"/>
+   <nd ref="472627485"/>
+   <nd ref="294676107"/>
+   <nd ref="472627487"/>
+   <nd ref="1728226416"/>
+   <nd ref="1728226418"/>
+   <nd ref="472627488"/>
+   <nd ref="472627489"/>
+   <nd ref="294663504"/>
+   <nd ref="1728226422"/>
+   <nd ref="277585719"/>
+   <nd ref="472627492"/>
+   <nd ref="1400187720"/>
+   <nd ref="472627493"/>
+   <nd ref="1375210839"/>
+   <nd ref="277585720"/>
+   <nd ref="1400187761"/>
+   <nd ref="472627496"/>
+   <nd ref="1728226586"/>
+   <nd ref="1400187767"/>
+   <nd ref="472627497"/>
+   <nd ref="472627498"/>
+   <nd ref="294664933"/>
+   <nd ref="1382302261"/>
+   <nd ref="472627500"/>
+   <nd ref="472627501"/>
+   <nd ref="1400187755"/>
+   <nd ref="277585510"/>
+   <nd ref="866667114"/>
+   <nd ref="1400187715"/>
+   <nd ref="585339005"/>
+   <tag k="admin_level" v="10"/>
+   <tag k="boundary" v="administrative"/>
+   <tag k="landuse" v="commercial"/>
+   <tag k="place" v="islet"/>
+   <tag k="wikidata" v="Q827120"/>
+   <tag k="wikipedia" v="de:Dominikanerinsel"/>
+  </way>
+  <way id="212102467" visible="true" version="9" changeset="20050162" timestamp="2014-01-17T16:23:52Z" user="woodpeck_repair" uid="145231">
+    <nd ref="324093461"/>
+    <nd ref="324112955"/>
+    <nd ref="2296404464"/>
+    <nd ref="45072567"/>
+    <nd ref="323821327"/>
+    <nd ref="2296404462"/>
+    <nd ref="2296404461"/>
+    <nd ref="2296404460"/>
+    <nd ref="324079982"/>
+    <nd ref="323855924"/>
+    <nd ref="323566966"/>
+    <nd ref="324585885"/>
+    <nd ref="323528136"/>
+    <nd ref="323343852"/>
+    <nd ref="323819342"/>
+    <nd ref="836856846"/>
+    <nd ref="323616488"/>
+    <nd ref="323625902"/>
+    <nd ref="323622753"/>
+    <nd ref="323439761"/>
+    <nd ref="2296427030"/>
+    <nd ref="94319867"/>
+    <nd ref="2296404456"/>
+    <nd ref="2296404457"/>
+    <nd ref="911546220"/>
+    <nd ref="911546240"/>
+    <tag k="admin_level" v="2"/>
+    <tag k="border_type" v="nation"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="left:country" v="Germany"/>
+    <tag k="name" v="Deutschland - Schweiz / Suisse / Svizerra"/>
+    <tag k="name:de" v="Deutschland - Schweiz"/>
+    <tag k="name:fr" v="Allemagne - Suisse"/>
+    <tag k="name:it" v="Germania - Svizzera"/>
+    <tag k="name:nl" v="Duitsland - Zwitserland"/>
+    <tag k="name:ru" v="Германия - Швейцария"/>
+    <tag k="right:country" v="Switzerland"/>
+    <tag k="source" v="LGL, www.lgl-bw.de; HiRes aerial imagery (CIA World Databank II;http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005)"/>
+   </way>
+   <way id="233681723" visible="true" version="5" changeset="29953715" timestamp="2015-04-03T14:59:09Z" user="Bolitho" uid="2687244">
+     <nd ref="911546240"/>
+     <nd ref="911546164"/>
+     <nd ref="323483551"/>
+     <nd ref="323754346"/>
+     <nd ref="911546225"/>
+     <nd ref="323684073"/>
+     <nd ref="323854625"/>
+     <nd ref="664050994"/>
+     <nd ref="324110402"/>
+     <nd ref="324115357"/>
+     <nd ref="324585886"/>
+     <nd ref="323339967"/>
+     <nd ref="323272795"/>
+     <nd ref="3434398856"/>
+     <nd ref="911546193"/>
+     <nd ref="2296404458"/>
+     <nd ref="26046981"/>
+     <tag k="admin_level" v="2"/>
+     <tag k="border_type" v="nation"/>
+     <tag k="boundary" v="administrative"/>
+     <tag k="left:country" v="Germany"/>
+     <tag k="name" v="Deutschland - Schweiz / Suisse / Svizerra"/>
+     <tag k="name:de" v="Deutschland - Schweiz"/>
+     <tag k="name:fr" v="Allemagne - Suisse"/>
+     <tag k="name:it" v="Germania - Svizzera"/>
+     <tag k="name:nl" v="Duitsland - Zwitserland"/>
+     <tag k="name:ru" v="Германия - Швейцария"/>
+     <tag k="right:country" v="Switzerland"/>
+     <tag k="source" v="LGL, www.lgl-bw.de; HiRes aerial imagery (CIA World Databank II;http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005)"/>
+    </way>
+     <way id="212102560" visible="true" version="5" changeset="46428544" timestamp="2017-02-26T23:36:14Z" user="Seetroll" uid="135562">
+      <nd ref="1706407388"/>
+      <nd ref="4707445518"/>
+      <nd ref="4707445509"/>
+      <nd ref="4707445510"/>
+      <nd ref="4707445511"/>
+      <nd ref="4707445512"/>
+      <nd ref="4707445513"/>
+      <nd ref="4707445514"/>
+      <nd ref="4707445515"/>
+      <nd ref="2275292185"/>
+      <nd ref="2275292186"/>
+      <nd ref="4707445516"/>
+      <nd ref="4707445517"/>
+      <nd ref="324093461"/>
+      <tag k="admin_level" v="10"/>
+      <tag k="boundary" v="administrative"/>
+     </way>
+      <way id="233681725" visible="true" version="2" changeset="38129192" timestamp="2016-03-28T20:20:40Z" user="Seetroll" uid="135562">
+       <nd ref="277879086"/>
+       <nd ref="277879085"/>
+       <nd ref="294671963"/>
+       <nd ref="294671964"/>
+       <nd ref="1449436396"/>
+       <nd ref="294671966"/>
+       <nd ref="294843763"/>
+       <nd ref="1449436407"/>
+       <nd ref="1728226652"/>
+       <nd ref="26040766"/>
+       <nd ref="1728226667"/>
+       <nd ref="1706407275"/>
+       <nd ref="309122161"/>
+       <nd ref="26040767"/>
+       <nd ref="309122108"/>
+       <nd ref="4083655501"/>
+       <nd ref="1706407351"/>
+       <nd ref="1706407373"/>
+       <nd ref="26040769"/>
+       <nd ref="1728226806"/>
+       <nd ref="1706407388"/>
+       <tag k="admin_level" v="10"/>
+       <tag k="boundary" v="administrative"/>
+      </way>
+       <way id="212102490" visible="true" version="3" changeset="17365470" timestamp="2013-08-15T21:46:26Z" user="seichter" uid="66497">
+        <nd ref="2219944652"/>
+        <nd ref="277879086"/>
+        <tag k="admin_level" v="10"/>
+        <tag k="boundary" v="administrative"/>
+       </way>
+<way id="212102543" visible="true" version="4" changeset="16487068" timestamp="2013-06-09T21:24:32Z" user="adjuva" uid="92274">
+  <nd ref="2219944652"/>
+  <nd ref="2173162271"/>
+  <nd ref="2173162270"/>
+  <nd ref="2173162267"/>
+  <nd ref="2173162264"/>
+  <nd ref="2173162263"/>
+  <nd ref="2173162258"/>
+  <nd ref="2173162247"/>
+  <nd ref="2173162235"/>
+  <nd ref="2173162224"/>
+  <nd ref="2173162220"/>
+  <nd ref="2173162214"/>
+  <nd ref="2173162205"/>
+  <nd ref="2173162195"/>
+  <nd ref="2173162189"/>
+  <nd ref="2173162181"/>
+  <nd ref="2173162178"/>
+  <nd ref="2173162174"/>
+  <nd ref="2173162175"/>
+  <nd ref="2173162177"/>
+  <nd ref="2173162173"/>
+  <nd ref="2173162172"/>
+  <nd ref="2173162170"/>
+  <nd ref="2173162167"/>
+  <nd ref="2173162166"/>
+  <nd ref="2173162165"/>
+  <nd ref="2173162164"/>
+  <nd ref="2173162163"/>
+  <nd ref="2173162162"/>
+  <nd ref="2173162161"/>
+  <nd ref="2173162160"/>
+  <nd ref="2173162158"/>
+  <nd ref="2173162154"/>
+  <nd ref="2173162153"/>
+  <nd ref="2173162152"/>
+  <nd ref="2173162151"/>
+  <nd ref="2173162149"/>
+  <nd ref="2173162147"/>
+  <nd ref="2173162145"/>
+  <nd ref="2173162144"/>
+  <nd ref="2173162143"/>
+  <nd ref="2173162142"/>
+  <nd ref="2173162141"/>
+  <nd ref="2173162140"/>
+  <nd ref="2173162139"/>
+  <nd ref="2173162134"/>
+  <nd ref="2173162133"/>
+  <nd ref="2173162131"/>
+  <nd ref="2173162129"/>
+  <nd ref="2173162128"/>
+  <nd ref="26046981"/>
+  <tag k="admin_level" v="5"/>
+  <tag k="boundary" v="administrative"/>
+  <tag k="source" v="LGL, www.lgl-bw.de"/>
+ </way>
+ <way id="212102560" visible="true" version="5" changeset="46428544" timestamp="2017-02-26T23:36:14Z" user="Seetroll" uid="135562">
+  <nd ref="1706407388"/>
+  <nd ref="4707445518"/>
+  <nd ref="4707445509"/>
+  <nd ref="4707445510"/>
+  <nd ref="4707445511"/>
+  <nd ref="4707445512"/>
+  <nd ref="4707445513"/>
+  <nd ref="4707445514"/>
+  <nd ref="4707445515"/>
+  <nd ref="2275292185"/>
+  <nd ref="2275292186"/>
+  <nd ref="4707445516"/>
+  <nd ref="4707445517"/>
+  <nd ref="324093461"/>
+  <tag k="admin_level" v="10"/>
+  <tag k="boundary" v="administrative"/>
+ </way>
+ <relation id="1631786" visible="true" version="14" changeset="46345728" timestamp="2017-02-23T18:25:59Z" user="dooley" uid="106701">
+  <member type="node" ref="1897670663" role="admin_centre"/>
+  <member type="way" ref="54436444" role="outer"/>
+  <member type="way" ref="212102467" role="outer"/>
+  <member type="way" ref="233681723" role="outer"/>
+  <member type="way" ref="212102560" role="outer"/>
+  <member type="way" ref="233681725" role="outer"/>
+  <member type="way" ref="212102490" role="outer"/>
+  <member type="way" ref="212102543" role="outer"/>
+  <tag k="admin_level" v="10"/>
+  <tag k="boundary" v="administrative"/>
+  <tag k="is_in" v="Konstanz,Konstanz,Freiburg,Baden-Württemberg,Bundesrepublik Deutschland,Europe"/>
+  <tag k="name" v="Konstanz-Altstadt"/>
+  <tag k="place" v="suburb"/>
+  <tag k="short_name" v="Altstadt"/>
+  <tag k="type" v="boundary"/>
+ </relation>
+</osm>
